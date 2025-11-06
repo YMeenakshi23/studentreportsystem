@@ -56,23 +56,21 @@ It allows **Admins**, **Teachers**, and **Students** to interact through dedicat
 Run the application as a Spring Boot App.
 
 🔹 Frontend (React)
+
 Navigate to the frontend folder:
 
-bash
-Copy code
 cd frontend
+
+
 Install dependencies:
 
-bash
-Copy code
 npm install
+
+
 Start the React app:
 
-bash
-Copy code
 npm start
-📜 License
-This project is developed for academic and learning purposes under an open license.
 
-pgsql
-Copy code
+📜 License
+
+This project is developed for academic and learning purposes under an open license.

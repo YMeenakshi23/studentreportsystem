@@ -55,22 +55,20 @@ It allows **Admins**, **Teachers**, and **Students** to interact through dedicat
    spring.datasource.password=yourpassword
 Run the application as a Spring Boot App.
 
-🔹 Frontend (React)
-
-Navigate to the frontend folder:
-
-cd frontend
-
-
-Install dependencies:
-
-npm install
-
-
-Start the React app:
-
-npm start
+### 🔹 Frontend (React)
+1. Navigate to the frontend folder:
+   ```bash
+   cd frontend
+2. Install dependencies:
+   ```bash
+   npm install
+3. Start the React app:
+   ```bash
+   npm start
 
 📜 License
 
 This project is developed for academic and learning purposes under an open license.
+   
+
+
